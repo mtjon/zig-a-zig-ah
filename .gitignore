@@ -1,0 +1,8 @@
+# direnv
+.direnv
+
+# zig
+zig-*
+
+# nix
+flake.lock
